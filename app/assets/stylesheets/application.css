@@ -11,3 +11,19 @@
  *= require_self
  *= require_tree .
  */
+html, body {
+	text-align: center;
+	background-color: black;
+    width: 760px;
+    margin: auto;
+    padding: 10px 0px;
+}
+
+#logobar {
+	background-color: black;
+}
+
+#piebar {
+	background-color: black;
+}
+
